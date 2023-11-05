@@ -5,7 +5,7 @@ To write a program for the first come first serve method of disc scheduling.
 # PROGRAM
 ```
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h> 
 int main()
 {
 int RQ[100],i,n,TotalHeadMoment=0,initial;
